@@ -1,2 +1,6 @@
-# Blog
-Software engineering and artificial general intelligence blog of Răzvan Flavius Panda
+# Blog of Răzvan Flavius Panda (freeman42x)
+
+Common topics:
+
+* Software Engineering: Haskell, Agda, Idris, Nix, NixOS, Functional Programming
+* Artificial General Intelligence | Strong Artificial Intelligence | High Level Artificial Intelligence
