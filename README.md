@@ -3,7 +3,7 @@
 Common topics:
 
 * Software Engineering: Haskell, Agda, Idris, Nix, NixOS, Functional Programming
-* Artificial General Intelligence | Strong Artificial Intelligence | High Level Artificial Intelligence
+* Artificial General Intelligence aka Strong Artificial Intelligence aka High Level Artificial Intelligence
 
 Blog posts:
 
