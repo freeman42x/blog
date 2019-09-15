@@ -21,7 +21,7 @@ Formatters:
 
 Profiling parallel programs:
 
-* [threadscope - graphical tool for profiling parallel programs](http://hackage.haskell.org/package/threadscope)
+* [⭐ threadscope - graphical tool for profiling parallel programs](http://hackage.haskell.org/package/threadscope)
 
 Dependency analysis:
 
@@ -39,7 +39,7 @@ Code coverage:
 
 List exported modules from a set of .cabal files:
 
-* [lscabal - list exported modules from a set of .cabal files](http://hackage.haskell.org/package/lscabal)
+* [⭐ lscabal - list exported modules from a set of .cabal files](http://hackage.haskell.org/package/lscabal)
 
 Others:
 
