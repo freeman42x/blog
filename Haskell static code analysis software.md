@@ -9,6 +9,7 @@ Remove dead code:
 * [⭐ Unused - command line tool to identify unused code](https://github.com/joshuaclayton/unused#readme)
 * [Weeder - detects unused Haskell exports, allowing dead code to be removed](https://github.com/ndmitchell/weeder)
 * [Dead code detection - detects dead code](https://github.com/soenkehahn/dead-code-detection#readme)
+* [smuggler - Source Plugin which removes unused imports automatically](https://github.com/kowainik/smuggler)
 
 Formatters:
 
@@ -45,6 +46,7 @@ List exported modules from a set of .cabal files:
 Others:
 
 * [AProVE termination checking - Automated Program Verification Environment - system for automated termination and complexity proofs of term rewrite systems (TRSs) and several variations of TRSs](http://aprove.informatik.rwth-aachen.de/)
+* [Sturdy - library to develop sound static analyses](https://github.com/svenkeidel/sturdy)
 * GHC exhaustiveness checker
 * LiquidHaskell refinement type analysis
 * Catch error free checker
