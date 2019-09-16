@@ -28,6 +28,7 @@ Dependency analysis:
 * [⭐ Graphmod - tool for visualizing the dependencies between Haskell modules, using graphviz](https://github.com/yav/graphmod/wiki)
 * [pkggraph - package dependency graph for installed packages](http://hackage.haskell.org/package/pkggraph)
 * [Stack - visualize the dependencies between your packages and optionally also external dependencies](https://docs.haskellstack.org/en/stable/dependency_visualization/)
+* [SourceGraph - static code analysis using graph-theoretic techniques](https://github.com/ivan-m/SourceGraph)
 
 Counting lines of code:
 
