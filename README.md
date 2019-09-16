@@ -1,6 +1,10 @@
 # Blog of Răzvan Flavius Panda (freeman42x)
 
-Common topics:
+My web page: http://razvan-flavius-panda.com
+
+I work at [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions). We are creating free or commercial open source software. With the final goal to help humanity create Safe Artificial General Intelligence.
+
+Common blogging topics:
 
 * Software Engineering: Haskell, Agda, Idris, Nix, NixOS, Functional Programming
 * Artificial General Intelligence aka Strong Artificial Intelligence aka High Level Artificial Intelligence
