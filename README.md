@@ -7,8 +7,8 @@ Common topics:
 
 Haskell:
 
-* [Static code analysis software](https://github.com/razvan-flavius-panda/blog/blob/master/Haskell%20static%20code%20analysis%20software.md)
+* [Static code analysis software](https://github.com/razvan-flavius-panda/blog/blob/master/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
 
 Science:
 
-* [Why not all life forms are being rational](https://github.com/razvan-flavius-panda/blog/blob/master/Why%20not%20all%20life%20forms%20are%20being%20rational.md)
+* [Why not all life forms are being rational](https://github.com/razvan-flavius-panda/blog/blob/master/Why%20not%20all%20life%20forms%20are%20being%20rational.md#why-not-all-life-forms-are-being-completely-rational)
