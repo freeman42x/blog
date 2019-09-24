@@ -35,5 +35,5 @@ Web frameworks or libraries:
 
 Best options:
 
-* yesod
-* miso + servant -> miso is very simple, performant and featureful. Combined with servant, it's a full-stack solution.4
+* ✔ miso + servant -> miso is very simple, performant and featureful. Combined with servant, it's a full-stack solution
+* yesod - has cases in which is inflexible
