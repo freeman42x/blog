@@ -35,6 +35,7 @@ MySQL:
 
 * https://hackage.haskell.org/package/mysql-simple
 
-Optimal:
+Optimal is one of:
 
 * Beam - https://hackage.haskell.org/package/beam-core
+* Opaleye - https://hackage.haskell.org/package/opaleye + library ecosystem
