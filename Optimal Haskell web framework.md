@@ -1,4 +1,4 @@
-Requirements:
+## Requirements:
 
 * has to work with GHCJS
 * has to be type-safe
@@ -38,3 +38,33 @@ Best options:
 
 * ✔ miso + servant -> miso is very simple, performant and featureful. Combined with servant, it's a full-stack solution
 * yesod - has cases in which is inflexible
+
+## Optimal compile to HTML framework or library:
+
+* XHTML http://hackage.haskell.org/package/xhtml
+* Blaze http://hackage.haskell.org/package/blaze-html - improves on XHTML?
+* Lucid http://hackage.haskell.org/package/lucid - improves on Blaze? - [tutorial](https://chrisdone.com/posts/lucid/)
+
+Best option:
+
+* ✔ Lucid http://hackage.haskell.org/package/lucid - improves on Blaze? - [tutorial](https://chrisdone.com/posts/lucid/)
+
+
+## Optimal compile to CSS framework or library:
+
+* Cassius and Lucius http://hackage.haskell.org/package/shakespeare-css
+* Clay http://hackage.haskell.org/package/clay - [tutorial](http://fvisser.nl/clay/)
+
+Best option:
+
+* ✔ Clay http://hackage.haskell.org/package/clay - [tutorial](http://fvisser.nl/clay/)
+
+## Optimal compile to JS framework or library:
+
+* GHCJS http://hackage.haskell.org/package/ghcjs-base
+* Haste http://hackage.haskell.org/package/haste-compiler
+* Fay http://hackage.haskell.org/package/fay
+
+Best option:
+
+* ✔ GHCJS http://hackage.haskell.org/package/ghcjs-base
