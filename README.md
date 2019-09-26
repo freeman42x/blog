@@ -13,7 +13,7 @@ Haskell:
 
 * [Static code analysis software](https://github.com/razvan-flavius-panda/blog/blob/master/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
 * [Optimal Haskell web framework](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20Haskell%20web%20framework.md)
-* [Optimal database access library](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20database%20access%20library.md)
+* [Optimal Haskell database access library](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20Haskell%20database%20access%20library.md)
 
 Science:
 
