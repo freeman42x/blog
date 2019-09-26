@@ -37,5 +37,6 @@ MySQL:
 
 Optimal is one of:
 
-* Beam - https://hackage.haskell.org/package/beam-core
-* Opaleye - https://hackage.haskell.org/package/opaleye + library ecosystem
+* ✔ Beam - https://hackage.haskell.org/package/beam-core for reasons, see: https://tathougies.github.io/beam/about/faq/#how-does-beam-compare-with-x
+* Persistent + Esqueleto
+* ODBC https://hackage.haskell.org/package/odbc - Haskell binding to the ODBC API, aimed at SQL Server driver
