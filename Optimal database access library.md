@@ -1,10 +1,6 @@
 Connect to any database:
 
 * https://hackage.haskell.org/package/beam-core
-* https://hackage.haskell.org/package/opaleye
-  * https://github.com/ocharles/rel8
-  * https://github.com/k0001/tisch
-  * https://github.com/silkapp/girella
 * https://hackage.haskell.org/package/HDBC - [tutorial](http://book.realworldhaskell.org/read/using-databases.html)
 * https://hackage.haskell.org/package/HDBC-odbc
 * https://hackage.haskell.org/package/persistent
@@ -23,6 +19,10 @@ MS SQL Server:
 
 PostgreSQL:
 
+* https://hackage.haskell.org/package/opaleye
+  * https://github.com/ocharles/rel8
+  * https://github.com/k0001/tisch
+  * https://github.com/silkapp/girella
 * https://hackage.haskell.org/package/hasql - for PostgreSQL
 * https://hackage.haskell.org/package/postgresql-simple
 * https://hackage.haskell.org/package/postgresql-query
