@@ -31,6 +31,7 @@ Web frameworks or libraries:
 * http://hackage.haskell.org/package/salvia
 * http://hackage.haskell.org/package/MFlow
 * http://hackage.haskell.org/package/webapi
+* http://hackage.haskell.org/package/req
 
 
 Best options:
