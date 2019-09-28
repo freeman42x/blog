@@ -44,6 +44,8 @@ Best options:
 * XHTML http://hackage.haskell.org/package/xhtml
 * Blaze http://hackage.haskell.org/package/blaze-html - improves on XHTML?
 * Lucid http://hackage.haskell.org/package/lucid - improves on Blaze? - [tutorial](https://chrisdone.com/posts/lucid/)
+* Nice HTML http://hackage.haskell.org/package/nice-html
+* Type of HTML http://hackage.haskell.org/package/type-of-html
 
 Best option:
 
