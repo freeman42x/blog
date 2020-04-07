@@ -15,6 +15,10 @@ Haskell:
 * [Optimal Haskell web framework](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20Haskell%20web%20framework.md)
 * [Optimal Haskell database access library](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20Haskell%20database%20access%20library.md)
 
+Project management:
+
+* [List of topics that need to be assessed to conduct a Project Feasibility Study](https://github.com/razvan-flavius-panda/blog/blob/master/Project%20HFeasibility%20HStudy%20HMethod/Project%20HFeasibility%20HStudy%20HMethod.md)
+
 Science:
 
 * [Why not all life forms are being rational](https://github.com/razvan-flavius-panda/blog/blob/master/Why%20not%20all%20life%20forms%20are%20being%20rational.md#why-not-all-life-forms-are-being-completely-rational)
