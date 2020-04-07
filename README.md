@@ -17,7 +17,7 @@ Haskell:
 
 Project management:
 
-* [List of topics that need to be assessed to conduct a Project Feasibility Study](https://github.com/razvan-flavius-panda/blog/blob/master/Project%20HFeasibility%20HStudy%20HMethod/Project%20HFeasibility%20HStudy%20HMethod.md)
+* [List of topics that need to be assessed to conduct a Project Feasibility Study](https://github.com/razvan-flavius-panda/blog/blob/master/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
 
 Science:
 
