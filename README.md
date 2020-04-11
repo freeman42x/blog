@@ -18,7 +18,3 @@ Haskell:
 Project management:
 
 * [List of topics that need to be assessed to conduct a Project Feasibility Study](https://github.com/razvan-flavius-panda/blog/blob/master/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
-
-Science:
-
-* [Why not all life forms are being rational](https://github.com/razvan-flavius-panda/blog/blob/master/Why%20not%20all%20life%20forms%20are%20being%20rational.md#why-not-all-life-forms-are-being-completely-rational)
