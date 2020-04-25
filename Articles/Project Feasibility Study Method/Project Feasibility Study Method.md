@@ -1,8 +1,8 @@
 # List of topics that need to be assessed to conduct a Project Feasibility Study
 
 * market research
-  - is the project useful / operationally feasible?
-  - is the project economically feasible?
+  * is the project useful / operationally feasible?
+  * is the project economically feasible?
 * competitive advantage
 * scope / description of product / service
 * technology considerations

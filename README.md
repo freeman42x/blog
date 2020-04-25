@@ -1,6 +1,6 @@
 # Blog of Răzvan Flavius Panda (freeman42x)
 
-My web page: http://razvan-flavius-panda.com
+My web page: [http://razvan-flavius-panda.com](http://razvan-flavius-panda.com)
 
 I work at [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions). We are creating free or commercial open source software. With the final goal to help humanity create Safe Artificial General Intelligence.
 
@@ -21,4 +21,5 @@ Project management:
 * [List of topics that need to be assessed to conduct a Project Feasibility Study](Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
 
 Funding:
+
 * [Crowdfunding](Articles/Crowdfunding.md)

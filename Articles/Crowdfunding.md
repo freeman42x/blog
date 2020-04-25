@@ -1,11 +1,13 @@
-#### Crowdfunding
+# Crowdfunding
 
-###### Threshold campaigns
+## Threshold campaigns
+
 * [Kickstarter](https://www.kickstarter.com/)
 * [Indiegogo](https://www.indiegogo.com)
 * [GoFundMe](https://www.gofundme.com)
 
-###### Bounty
+## Bounty
+
 * [BountySource](https://www.bountysource.com/)
 * [FreedomSponsors](https://freedomsponsors.org/)
 * [Beerpay](https://beerpay.io/)
@@ -13,7 +15,8 @@
 * [Gitcoin](https://gitcoin.co/)
 * [Bountify](https://bountify.co/)
 
-###### Subscriptions
+## Subscriptions
+
 * [Open Collective - transparent](https://opencollective.com/)
 * [Patreon](https://www.patreon.com)
 * [Liberapay](https://liberapay.com/)
@@ -21,7 +24,8 @@
 * [Ko-fi](https://ko-fi.com)
 * [Flattr](https://flattr.com/)
 
-###### Donations
+## Donations
+
 * [Open Collective - transparent](https://opencollective.com/)
 * [PayPal](https://www.paypal.com)
 * [Facebook Donations](https://www.facebook.com/help/833144153745643)
