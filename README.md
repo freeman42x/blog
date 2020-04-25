@@ -12,8 +12,8 @@ Common blogging topics:
 Haskell:
 
 * [Static code analysis software](Articles/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
-* [Haskell web frameworks](Articles/Optimal%20Haskell%20web%20framework.md)
-* [Haskell database access libraries](Articles/Optimal%20Haskell%20database%20access%20library.md)
+* [Haskell web frameworks](Articles/Haskell%20web%20frameworks.md)
+* [Haskell database access libraries](Articles/Haskell%20database%20access%20libraries.md)
 
 Project management:
 

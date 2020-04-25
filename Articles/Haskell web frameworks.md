@@ -39,7 +39,7 @@ Best options:
 * ✔ miso + servant -> miso is very simple, performant and featureful. Combined with servant, it's a full-stack solution
 * yesod - has cases in which is inflexible
 
-## Optimal compile to HTML framework or library:
+## compile to HTML framework or libraries:
 
 * XHTML http://hackage.haskell.org/package/xhtml
 * Blaze http://hackage.haskell.org/package/blaze-html - improves on XHTML?
@@ -52,7 +52,7 @@ Best option:
 * ✔ Lucid http://hackage.haskell.org/package/lucid - improves on Blaze? - [tutorial](https://chrisdone.com/posts/lucid/)
 
 
-## Optimal compile to CSS framework or library:
+## Compile to CSS framework or libraries:
 
 * Cassius and Lucius http://hackage.haskell.org/package/shakespeare-css
 * Clay http://hackage.haskell.org/package/clay - [tutorial](http://fvisser.nl/clay/)
@@ -61,7 +61,7 @@ Best option:
 
 * ✔ Clay http://hackage.haskell.org/package/clay - [tutorial](http://fvisser.nl/clay/)
 
-## Optimal compile to JS framework or library:
+## Compile to JS framework or libraries:
 
 * GHCJS http://hackage.haskell.org/package/ghcjs-base
 * Haste http://hackage.haskell.org/package/haste-compiler
