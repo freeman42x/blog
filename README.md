@@ -11,12 +11,14 @@ Common blogging topics:
 
 Haskell:
 
-* [Static code analysis software](https://github.com/razvan-flavius-panda/blog/blob/master/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
-* [Optimal Haskell web framework](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20Haskell%20web%20framework.md)
-* [Optimal Haskell database access library](https://github.com/razvan-flavius-panda/blog/blob/master/Optimal%20Haskell%20database%20access%20library.md)
+* [Static code analysis software](Articles/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
+* [Haskell web frameworks](Articles/Optimal%20Haskell%20web%20framework.md)
+* [Haskell database access libraries](Articles/Optimal%20Haskell%20database%20access%20library.md)
 
 Project management:
 
-* [Project management tools](https://github.com/razvan-flavius-panda/blog/blob/master/Project%20management%20tools.md)
-* [List of topics that need to be assessed to conduct a Project Feasibility Study](https://github.com/razvan-flavius-panda/blog/blob/master/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
-* [Crowdfunding](https://github.com/razvan-flavius-panda/blog/blob/master/Crowdfunding.md)
+* [Project management tools](Articles/Project%20management%20tools.md)
+* [List of topics that need to be assessed to conduct a Project Feasibility Study](Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
+
+Funding:
+* [Crowdfunding](Articles/Crowdfunding.md)
