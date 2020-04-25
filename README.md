@@ -2,12 +2,12 @@
 
 My web page: [http://razvan-flavius-panda.com](http://razvan-flavius-panda.com)
 
-I work at [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions). We are creating free or commercial open source software. With the final goal to help humanity create Safe Artificial General Intelligence.
+I work at [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions). We are creating free or commercial open-source software. With the final goal to help humanity create Safe Artificial General Intelligence.
 
 Common blogging topics:
 
 * Software Engineering: Haskell, Agda, Idris, Nix, NixOS, Functional Programming
-* Artificial General Intelligence aka Strong Artificial Intelligence aka High Level Artificial Intelligence
+* Artificial General Intelligence aka Strong Artificial Intelligence aka Human-Level Artificial Intelligence
 
 Haskell:
 
@@ -18,7 +18,7 @@ Haskell:
 Project management:
 
 * [Project management tools](Articles/Project%20management%20tools.md)
-* [List of topics that need to be assessed to conduct a Project Feasibility Study](Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
+* [List of topics that someone would need to assess to conduct a Project Feasibility Study](Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
 
 Funding:
 
