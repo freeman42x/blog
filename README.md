@@ -12,14 +12,14 @@ Common blogging topics:
 Haskell:
 
 * [Static code analysis software](Articles/Haskell%20static%20code%20analysis%20software#haskell-static-code-analysis-software)
-* [Haskell web frameworks](Articles/Haskell%20web%20frameworks.md)
-* [Haskell database access libraries](Articles/Haskell%20database%20access%20libraries.md)
+* [Haskell web frameworks](Articles/Haskell%20web%20frameworks)
+* [Haskell database access libraries](Articles/Haskell%20database%20access%20libraries)
 
 Project management:
 
-* [Project management tools](Articles/Project%20management%20tools.md)
-* [List of topics that someone would need to assess to conduct a Project Feasibility Study](Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
+* [Project management tools](Articles/Project%20management%20tools)
+* [List of topics that someone would need to assess to conduct a Project Feasibility Study](Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method)
 
 Funding:
 
-* [Crowdfunding](Articles/Crowdfunding.md)
+* [Crowdfunding](Articles/Crowdfunding)
