@@ -1,8 +1,10 @@
 # Blog of Răzvan Flavius Panda (freeman42x)
 
-My web page: [http://razvan-flavius-panda.com](http://razvan-flavius-panda.com)
+HTML version of the repository: [https://razvan-flavius-panda.github.io/blog/](https://razvan-flavius-panda.github.io/blog/)
 
 I work at [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions). We are creating free or commercial open-source software. With the final goal to help humanity create Safe Artificial General Intelligence.
+
+My resume: [http://razvan-flavius-panda.com](http://razvan-flavius-panda.com)
 
 Common blogging topics:
 
