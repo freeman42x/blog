@@ -9,6 +9,10 @@ Common blogging topics:
 * Software Engineering: Haskell, Agda, Idris, Nix, NixOS, Functional Programming
 * Artificial General Intelligence aka Strong Artificial Intelligence aka Human-Level Artificial Intelligence
 
+Human Level Artificial Intelligence  / Artificial General Intelligence (HLAI / AGI)
+
+* [The way human level artificial intelligence research is currently done is dangerous](Articles/The%20way%20human%20level%20artificial%20intelligence%20research%20is%20currently%20done%20is%20dangerous)
+
 Haskell:
 
 * [Static code analysis software](Articles/Haskell%20static%20code%20analysis%20software#haskell-static-code-analysis-software)
