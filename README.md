@@ -15,6 +15,10 @@ Human Level Artificial Intelligence  / Artificial General Intelligence (HLAI / A
 
 * [The way human level artificial intelligence research is currently done is dangerous](Articles/The%20way%20human%20level%20artificial%20intelligence%20research%20is%20currently%20done%20is%20dangerous)
 
+Agda:
+
+* [Setting up Atom with agda-mode using Nix package manager](Articles/Setting%20up%20Atom%20with%20agda-mode%20using%20Nix%20package%20manager.md)
+
 Haskell:
 
 * [Static code analysis software](Articles/Haskell%20static%20code%20analysis%20software#haskell-static-code-analysis-software)
