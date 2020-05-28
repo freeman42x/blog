@@ -11,3 +11,4 @@
 4. Install following Agda extensions:
     * `language-agda`
     * `agda-mode`
+5. Install the `Agda standard library` by [following the instructions here](https://github.com/agda/agda-stdlib/blob/master/notes/installation-guide.md).
