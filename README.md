@@ -18,6 +18,7 @@ Human Level Artificial Intelligence  / Artificial General Intelligence (HLAI / A
 Agda:
 
 * [Setting up Atom with agda-mode using Nix package manager](Articles/Setting%20up%20Atom%20with%20agda-mode%20using%20Nix%20package%20manager)
+* [Setting up Atom with agda-mode on Windows 10](Articles/Setting%20up%20Atom%20with%20agda-mode%20on%20Windows%2010)
 
 Haskell:
 
