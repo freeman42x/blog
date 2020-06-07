@@ -4,9 +4,13 @@
 
 Agda is a dependently typed programming language. Because of strong typing and dependent types, Agda can be used as a proof assistant, allowing to prove mathematical theorems (in a constructive setting) and to run such proofs as algorithms.
 
+## Study material
+
+We will be going through the [Programming Language Foundations in Agda](https://plfa.github.io/) which is an introduction to programming language theory using the proof assistant Agda:
+
 ## Schedule - self-paced study
 
-
+So that as many interested people as possible can benefit from participating in this study in an efficient manner we will have the study be self-paced. This means that there are no deadlines except the ones you will self-impose.
 
 ## Editors
 
@@ -19,8 +23,6 @@ Atom only supports the `.lagda` format so use [this fork for the study](https://
 * [Setting up Agda with Atom on Linux or MacOs](https://razvan-flavius-panda.github.io/blog/Articles/Setting%20up%20Atom%20with%20agda-mode%20using%20Nix%20package%20manager)
 * [nix-shell for Agda with Emacs on Linux or MacOs](https://github.com/atopuzov/agdastuff/tree/master/agda-shell-1)
 
-add atopuzov's setup instructions also
-
 ## Communication channels
 
 main communication channel discord
@@ -28,8 +30,6 @@ main communication channel discord
 other communication channels and communities, link to res or repeat?!
 
 link to agda resources
-
-
 
 
 
