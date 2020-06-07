@@ -6,9 +6,11 @@ Agda is a dependently typed programming language. Because of strong typing and d
 
 ## Study material
 
-We will be going through the [Programming Language Foundations in Agda](https://plfa.github.io/) which is an introduction to programming language theory using the proof assistant Agda:
+We will be going through the [Programming Language Foundations in Agda](https://plfa.github.io/) which is an introduction to programming language theory using the proof assistant Agda.
 
-## Schedule - self-paced study
+[Other Agda resources](https://github.com/razvan-flavius-panda/awesome-agda-programming)
+
+## Self-paced study
 
 So that as many interested people as possible can benefit from participating in this study in an efficient manner we will have the study be self-paced. This means that there are no deadlines except the ones you will self-impose.
 
@@ -25,13 +27,7 @@ Atom only supports the `.lagda` format so use [this fork for the study](https://
 
 ## Communication channels
 
-main communication channel discord
-
-other communication channels and communities, link to res or repeat?!
-
-link to agda resources
-
-
+We will be discussing about the study and any questions we might have in the [Haskell Programming Discord Server](https://discord.gg/rfvNXmE).
 
 References:
 
