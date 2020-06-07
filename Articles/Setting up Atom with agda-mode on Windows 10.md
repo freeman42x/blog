@@ -11,7 +11,7 @@
     * Run as admin in CMD:
         * `npm install --global --production windows-build-tools`
         * `npm config set msvs_version 2015 --global`
-4. Install following Agda extensions inside Atom:
+4. Install the `Agda standard library` by [following the instructions here](https://github.com/agda/agda-stdlib/blob/master/notes/installation-guide.md). Put the configuration files `defaults` and `libraries` inside: `C:\Users\JohnDoe\AppData\Roaming\agda`
+5. Install following Agda extensions inside Atom:
     * `language-agda`
     * `agda-mode`
-5. Install the `Agda standard library` by [following the instructions here](https://github.com/agda/agda-stdlib/blob/master/notes/installation-guide.md). Put the configuration files `defaults` and `libraries` inside: `C:\Users\JohnDoe\AppData\Roaming\agda`
