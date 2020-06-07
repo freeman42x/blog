@@ -17,6 +17,7 @@ Human Level Artificial Intelligence  / Artificial General Intelligence (HLAI / A
 
 Agda:
 
+* [Agda dependently typed programming language self-paced study group](Articles/Agda%20dependently%20typed%20programming%20language%20self-paced%20study%20group)
 * [Setting up Atom with agda-mode using Nix package manager](Articles/Setting%20up%20Atom%20with%20agda-mode%20using%20Nix%20package%20manager)
 * [Setting up Atom with agda-mode on Windows 10](Articles/Setting%20up%20Atom%20with%20agda-mode%20on%20Windows%2010)
 
