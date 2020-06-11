@@ -13,7 +13,7 @@ Common blogging topics:
 
 Human Level Artificial Intelligence  / Artificial General Intelligence (HLAI / AGI)
 
-* [The way human level artificial intelligence research is currently done is dangerous](Articles/The%20way%20human%20level%20artificial%20intelligence%20research%20is%20currently%20done%20is%20dangerous)
+* [Human-Level Artificial Intelligence research needs to improve](Articles/Human-Level%20Artificial%20Intelligence%20research%20needs%20to%20improve)
 
 Agda:
 
